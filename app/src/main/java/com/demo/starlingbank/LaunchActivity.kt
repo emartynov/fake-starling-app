@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.inputmethod.EditorInfo
 import android.widget.TextView
-import com.example.starling.starling.R
 import kotlinx.android.synthetic.main.activity_launch.*
 
 
